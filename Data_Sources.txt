@@ -1,0 +1,17 @@
+
+Data Source:
+The dataset used in this project was provided as part of the project assignment. It contains sales information including order dates, regions, product categories, units sold, and revenue. Although the exact source of the dataset is unknown, it appears to represent typical sales data used for business analysis.
+
+Data Collection:
+The dataset was already available in a structured format. It was loaded into Tableau for analysis after performing necessary cleaning and formatting steps.
+
+Data Limitations:
+  * The source and context of the data are not fully verified.
+  * Some entries may be incomplete or contain errors.
+  * Insights derived are based on the available data and may not cover all aspects of real-world scenarios.
+
+ Assumptions:
+ It is assumed that the dataset is a sample of real-world sales data, structured for analysis, and represents trends that can be generalized for learning purposes.
+
+
+
