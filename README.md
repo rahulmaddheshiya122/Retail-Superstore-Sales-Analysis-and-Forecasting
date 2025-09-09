@@ -2,6 +2,19 @@
 <h3 align="left">About</h3>
 Superstore is close to a real-world fake dataset with 10,000 records of sales information. The aim of this project is to provide KPIs and insights to monitor trends. To start, cleaning of the dataset is done in Python, performing exploratory data analysis and mining impactful insights utilizing pandas, numpy, and pandasql.
 
+<h3>Problem Definition:<h3/>
+<h4>The purpose of this project is to analyze sales data from different regions and time periods to identify trends, patterns, and areas for improvement.
+
+<h3>Objectives:<h3/>
+
+Understand which products and regions generate the highest sales.
+
+Identify seasonal patterns and peak periods.
+
+Detect anomalies or sudden drops in sales.
+
+Provide actionable recommendations to boost performance.</h4>
+
 <h4> Fun Fact - I used both Pandas and PandaSQL (to execute SQL queries) to answer business questions. The major reason is to check the number of lines of code and the impact of outputs from both libraries on a single screen. Also, I am a MAC user  😌 </h4>
 
 <h3 align="left">Languages and Tools Used</h3>
