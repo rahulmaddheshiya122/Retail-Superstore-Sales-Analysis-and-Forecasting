@@ -1,26 +1,22 @@
 Key Observations
 
-Sales trend: Sales increased significantly during festive months like October to December.
-
-Regional performance: East region generated the highest revenue, followed by West region.
-
-Product category performance: Furniture products performed better during festive periods.
-
-Sales drop: A sudden decline in sales was observed in March 2018.
+* Sales trend: Sales increased significantly during festive months like October to December.
+* Regional performance: East region generated the highest revenue, followed by West region.
+* Product category performance: Furniture products performed better during festive periods.
+* Sales drop: A sudden decline in sales was observed in March 2018.
 
 Summary Statistics
 
-Average monthly sales: ₹50,000 (approximate based on sample data).
-
-Maximum units sold in a month: 1,200 units.
-
-Correlation between price and units sold: -0.45, indicating that higher prices led to lower units sold.
+* Average monthly sales: ₹50,000 (approximate based on sample data).
+* Maximum units sold in a month: 1,200 units.
+* Correlation between price and units sold: -0.45, indicating that higher prices led to lower units sold.
 
 Recommendations
 
-Increase stock before peak seasons to meet customer demand.
+* Increase stock before peak seasons to meet customer demand.
+* Focus marketing on high-performing regions like East to boost revenue.
+* Reassess pricing strategies for products with declining sales.
 
-Focus marketing on high-performing regions like East to boost revenue.
 
-Reassess pricing strategies for products with declining sales.
+
 
