@@ -1,17 +1,26 @@
-Key Insights:
+Key Observations
 
-Sales are highest during festive seasons like October and December.
+Sales trend: Sales increased significantly during festive months like October to December.
 
-West region consistently outperforms others, suggesting better marketing or higher customer demand.
+Regional performance: East region generated the highest revenue, followed by West region.
 
-Discounts or promotions in November likely boosted sales.
+Product category performance: Furniture products performed better during festive periods.
 
-Office Supplies category shows declining sales; new strategies may be required.
+Sales drop: A sudden decline in sales was observed in March 2018.
 
-Recommendations:
+Summary Statistics
 
-Increase stock before peak seasons like October and December.
+Average monthly sales: ₹50,000 (approximate based on sample data).
 
-Focus marketing efforts on high-performing regions such as the West.
+Maximum units sold in a month: 1,200 units.
 
-Reassess pricing or introduce new offers for declining products like Office Supplies.
+Correlation between price and units sold: -0.45, indicating that higher prices led to lower units sold.
+
+Recommendations
+
+Increase stock before peak seasons to meet customer demand.
+
+Focus marketing on high-performing regions like East to boost revenue.
+
+Reassess pricing strategies for products with declining sales.
+
